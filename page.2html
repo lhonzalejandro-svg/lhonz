@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>page title</title>
+</head>
+<body>
+
+  <center></center><h1.student information</h1>
+  <h2>Lhonz Alejandro</h2>
+  <h3>17 yrs old</h3>
+  <h4>male</h4>
+  <h5>andrea 2</h5>
+  <h6>bball player</h6>
+  <p>this is a paragraph.</p>
+  <p>this is a paragraph.</p>
+  <a href="index.html">this is a link</a>
+
+
+
+  </body>
+  </html>
